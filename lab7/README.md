@@ -1,0 +1,2 @@
+## Threading in Linux
+[The main task was](lab7.cpp): Demonstrate thread creation and management in C++ using the pthreads library. Create a child thread that executes an infinite loop and cancels that thread after some time. Also use cleanup mechanisms for correct flow termination.

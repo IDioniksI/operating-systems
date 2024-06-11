@@ -1,0 +1,2 @@
+# Operating Systems course
+This repository contains several works on threading in the C++ programming language. The works are divided into folders, each of which contains a separate task. The tasks are described in the README.md files in the corresponding folders.

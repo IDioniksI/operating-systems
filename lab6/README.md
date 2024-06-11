@@ -1,0 +1,2 @@
+## Creating processes in Linux
+[The main task was](lab6.cpp): Demonstrate the basics of creating a new process in Unix-like operating systems using the fork() function. Also implement the basic concepts of dividing processes into parent and child processes.

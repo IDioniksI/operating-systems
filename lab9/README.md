@@ -1,0 +1,2 @@
+## Means of synchronization and interaction of processes
+[The main task was](lab9.cpp): Implement verse processing by distributing work between multiple child processes that use system message queues and semaphores to synchronize with each other
